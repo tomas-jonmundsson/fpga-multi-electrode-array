@@ -19,8 +19,8 @@ Standard MEA systems are limited in their spatial resolution when imaging cardia
 - Clinical research collaboration
 
 ## Repository Contents
-- `report.pdf` — Full project report
-- `presentation.pdf` — Stakeholder presentation delivered to 100+ attendees
+- `fpga_MEA_report.pdf` — Full project report
+- `fpga_MEA_presentation.pdf` — Stakeholder presentation delivered to 100+ attendees
 
 ## Tools & Technologies
 `FPGA` `Biomedical Signal Processing` `KiCad`
