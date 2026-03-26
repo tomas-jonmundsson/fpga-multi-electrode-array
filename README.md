@@ -5,12 +5,11 @@
 ## Overview
 Designed and built an FPGA-based multi-electrode array (MEA) enabling spatially superior cardiac organoid imaging under radiation conditions, developed in collaboration with the Westmead Cardiology Department.
 
-Standard MEA systems are limited in their spatial resolution when imaging cardiac organoids under radiation. This project aimed to overcome those limitations through custom FPGA-based signal acquisition and processing.
+Standard MEA systems are limited in their spatial resolution when imaging cardiac organoids. This project aimed to overcome those limitations through a logic-gated multiplexing architecture implemented on the FPGA, enabling recordings across multiple MEA plates without signal degradation.
 
 ## My Role
 - Led a 7-person interdisciplinary engineering team as project coordinator
 - Solely responsible for interdepartmental communication between the engineering team and Westmead clinical stakeholders
-- Coordinated all meetings and maintained project documentation throughout the lifecycle
 
 ## Technical Areas
 - FPGA systems design
